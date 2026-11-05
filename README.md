@@ -1,8 +1,5 @@
 # WinPOPBit (formerly POP4.2) — Windows 11 24H2/26H2 Kernel Bypass Tool
 
-![Windows 11 Supported](https://shields.io)
-![License](https://shields.io)
-![Status](https://shields.io)
 
 WinPOPBit is an automated GUI & Console framework designed to patch official Windows 11/10 installation media, enabling seamless deployment and In-Place Upgrades on unsupported legacy hardware. 
 
